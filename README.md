@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://musicplayer.anniew.xyz/"><img src="./img/music-player.gif" alt="music player gif" height="600"></a>
+  <a href="https://musicplayer.anniew.xyz/"><img src="https://github.com/akash99909/Aflex_Music/blob/main/Screenshot%20(17).png" alt="music player gif" height="600"></a>
 </p>
 
 ### Functionality
